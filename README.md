@@ -8,4 +8,6 @@ Olá! Seja bem vindo ao meu livro receitas :wave:
 
 - Pacumê
 
-- Pararapapa
+- Bolo de Cenoura
+
+- Bolo de Abacaxi
